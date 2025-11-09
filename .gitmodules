@@ -1,0 +1,6 @@
+[submodule "Packages/Node.Luban"]
+	path = Packages/Node.Luban
+	url = https://github.com/eframework-io/Node.Luban.git
+[submodule "Packages/Node.Protoc"]
+	path = Packages/Node.Protoc
+	url = https://github.com/eframework-io/Node.Protoc.git
