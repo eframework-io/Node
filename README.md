@@ -7,8 +7,8 @@
 
 ## 功能特性
 
-- [Node.Luban](Packages/Node.Luban/README.md) 简化了 Luban 导表工具的安装和使用。
-- [Node.Protoc](Packages/Node.Protoc/README.md) 简化了 Protocol Buffers 和 gRPC 工具链的安装与使用。
+- [EFramework Luban for Node](https://github.com/eframework-io/Node.Luban)：简化了 Luban 导表工具的安装和使用。
+- [EFramework Protoc for Node](https://github.com/eframework-io/Node.Protoc)：简化了 Protocol Buffers 和 gRPC 工具链的安装与使用。
 
 ## 常见问题
 
